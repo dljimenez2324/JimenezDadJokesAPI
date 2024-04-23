@@ -15,4 +15,7 @@ async function getDaddy(){
         },
     }).then(Response => Response.json());
     console.log(apiResponse.joke);
+
+    // now the next step is to change the display area to show the  change in joke in the ptag
+    
 };
