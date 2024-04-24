@@ -17,5 +17,5 @@ async function getDaddy(){
     console.log(apiResponse.joke);
 
     // now the next step is to change the display area to show the  change in joke in the ptag
-    
+    display.innerText = apiResponse.joke;
 };
