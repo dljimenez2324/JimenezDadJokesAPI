@@ -11,5 +11,19 @@ h1 {
 }
 
 p {
-    color:aliceblue;
+    color:black;
+}
+
+.dogbox {
+    display: flex;
+    background-color: aliceblue;
+    height: 10vh;
+    margin-top: 5rem;
+    margin-right: 4rem;
+    opacity: 60%;
+}
+
+.btnSassy {
+    
+    
 }
