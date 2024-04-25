@@ -19,7 +19,7 @@
 
 
 Peer Reviewed by Neo See <br>
-Comments:  <br> <br>
+Comments:  <br> <br> Everything looks good. I like how you used a const for your url instead of putting it in the fetch but also so it is used once. like the the design.
 
 
 
