@@ -1,7 +1,7 @@
 # Mini Challenge - 1 Random Dad Joke
 
 <b>Name:</b> David Jimenez<br>
-<b>Project:</b> Mini Challenge - Weather App <br>
+<b>Project:</b> Mini Challenge - Dad Joke API <br>
 <b>Date:</b> 04/24/2024 <br>
 <strong>Description:</strong>
 * Be able to pull a random Dad Joke from this websites api: link: https://icanhazdadjoke.com/ <br>
